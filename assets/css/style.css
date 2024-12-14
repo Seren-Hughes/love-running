@@ -25,6 +25,11 @@ h1, h2, h3 {
     color: #252525;
 }
 
+/* hides heading from screen but not search engines */
+.hidden-heading {
+    display: none;
+}
+
 /* header */
 header {
     background-color: #ffffff;
